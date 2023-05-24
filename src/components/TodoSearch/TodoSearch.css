@@ -1,0 +1,19 @@
+.search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .search-container input {
+    width: 50%;
+    height: 2.8em;
+    border-radius: 2em;
+    border: 1px solid #b4b7bb;
+    text-indent: 1em;
+    font-style: italic;
+  }
+  
+  .search-container input:focus {
+    outline-color: rgb(41, 152, 152);
+  }
